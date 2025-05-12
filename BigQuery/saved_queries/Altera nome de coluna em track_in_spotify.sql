@@ -1,0 +1,1 @@
+SELECT artist_s__name AS artisti_name  FROM `projeto-2-laboratoria-456917.database_projeto_2.track_in_spotify` LIMIT 1000
