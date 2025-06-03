@@ -6,6 +6,7 @@
 
 Carla Bruckmann e Cristy Ellen Ribeiro.
 
+- [**Feedback**](https://github.com/CarlaBruckmann/analiseDeDados_Projeto2_Spotify/blob/master/assets/Captura%20de%20Tela%202025-06-03%20%C3%A0s%2016.53.24.png?raw=true)
 - [**Documentação**](https://www.notion.so/Documenta-o-1d2d4ec7c316813580e4e584a4d3a644?pvs=21)
 - [**Repositório - GitHub**](https://github.com/CarlaBruckmann/analiseDeDado_Projeto2_Spotify)
 - [**Repositório - BigQuery**](https://console.cloud.google.com/bigquery?hl=pt&invt=Abuvjg&project=projeto-2-laboratoria-456917)
